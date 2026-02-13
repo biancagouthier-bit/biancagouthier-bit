@@ -1,4 +1,6 @@
 ## Hi there 👋
+🌱 I’m currently learning how to code in Rust and how to use GitHub for storing my codes.
+⚡ Fun fact: give me a date, in the past or in the future, (and a bunch of seconds) and I'll tell you what they of the week it was/will be!
 
 <!--
 **biancagouthier-bit/biancagouthier-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
